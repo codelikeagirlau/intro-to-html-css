@@ -3,7 +3,7 @@
 ## Key Concepts
 
 Before we get started, let's go over some basic concepts first:
-- *HTML* stands for Hypertext markup Language. This is the language used to create Web pages for display in web browsers.
+- *HTML* stands for Hypertext Markup Language. This is the language used to create Web pages for display in web browsers.
 
 ## What we're going to do
 In this practical exercise, we will do the following:
