@@ -1,9 +1,17 @@
-# Exercise 2
+# Exercise 2: Intro to CSS
 
-We're going to add some CSS to style the HTML we wrote for our home page, `index.html`
+## Key Concepts
 
+Before we get started, let's go over some basic concepts first:
+- *CSS* stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed.
 
-### Steps
+## What we're going to do
+In this practical exercise, we will do the following:
+- Link our CSS to the HTML we wrote for our home page `index.html`
+- Wrap our content
+- Center our page
+
+## Steps
 
 1. Link our CSS to our HTML file
 
@@ -47,13 +55,12 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
 
 > Hint: If you have an idea about how you want your page to look but don't know the CSS to style it, ask for help from a neighbor or one of the workshop helpers!
 
-
-### Color models in web documents
+## Color models in web documents
 
 There are several methods to indicate the color you want to style your tag with, including hexadecimal, which looks like `#000000` and RGB / RGBA (which stands for Red, Green, Blue, Alpha) and looks like `rgba(0,0,0,0.5)`. With RGBA, the numbers in your parentheses stand for `(Red, Green, Blue, Alpha)` so `rgba(0,0,0,0.5)` means 0 Red, 0 Green, 0 Blue, and 50% opacity.
 
 
-### Adding custom fonts to web documents.
+## Adding custom fonts to web documents.
 
 1. You can choose a custom font from https://fonts.google.com 
 
@@ -68,7 +75,7 @@ There are several methods to indicate the color you want to style your tag with,
 https://www.cssfontstack.com/
 
 
-### Code reference
+## Code reference
 
 Here's an example of what your CSS code could look like when you've completed the steps above:
 https://gist.github.com/natasjja/cbcdaf39af68f9ac660ce2ac45b0fda5

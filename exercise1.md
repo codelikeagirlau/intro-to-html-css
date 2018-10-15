@@ -1,10 +1,17 @@
-# Exercise 1
+# Exercise 1: Intro to HTML
 
-We're going to add some new tags into our home page, `index.html`
+## Key Concepts
 
-Note that all the website tags need to go inside the `<body>` tag
+Before we get started, let's go over some basic concepts first:
+- *HTML* stands for Hypertext markup Language. This is the language used to create Web pages for display in web browsers.
 
-### Steps
+## What we're going to do
+In this practical exercise, we will do the following:
+- Open the boilerplate files
+- Add new tags to the `index.html` page
+- Add an image to the page
+
+## Steps
 
 > Hint: Don't forget to save each time you make changes to a file!
 
@@ -22,7 +29,7 @@ Note that all the website tags need to go inside the `<body>` tag
 
 3.  Add new tags to the page
 
-    * Pop these anywhere inside the `<body>` tag.
+    * Pop these anywhere inside the `<body>` tag. *Note that all the website tags need to go inside the `<body>` tag.*
     * Enter a big heading on the page using the `<h1>` tag
       https://www.w3schools.com/tags/tag_hn.asp
     * Add an unordered list using the `<ul>` tag.
@@ -52,7 +59,7 @@ Note that all the website tags need to go inside the `<body>` tag
 
 > HINT: As you add tags into your code, make sure you keep refreshing the page in Chrome to see your changes come through.
 
-### Code reference
+## Code reference
 
 Here's an example of what your HTML code could look like when you've completed the steps above:
 https://gist.github.com/natasjja/3eb858ac8a86fc2bcdf31253faca1280
