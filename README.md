@@ -10,6 +10,7 @@ In this repository are the activities for Code Like A Girl's Intro to HTML &amp;
 - How do you create HTML documents (websites)?
 - What is CSS?
 - Using CSS to style your new web page
+- Deploy your webpage
 
 ## Setting Up
 
