@@ -29,8 +29,15 @@ In this repository are the activities for Code Like A Girl's Intro to HTML &amp;
 This workshop is composed of three primary exercises. Each of the exercise represents a continuing improvement on your very own simple website.
 1) [Exercise 1: Intro to HTML](https://github.com/codelikeagirlau/intro-to-html-css/blob/master/exercise1.md)
 2) [Exercise 2: Intro to CSS](https://github.com/codelikeagirlau/intro-to-html-css/blob/master/exercise2.md)
-3) [Exercise 3: Bonus - Deploy your webpage](https://github.com/codelikeagirlau/intro-to-html-css/blob/master/exercise3.md)
+3) [Exercise 3: Deploy your webpage](https://github.com/codelikeagirlau/intro-to-html-css/blob/master/exercise3.md)
+4) [Bonus Exercise: Build out your webpage](https://github.com/codelikeagirlau/intro-to-html-css/blob/master/bonusexercise.md)
 
-If you run into any problem, just give our assistants a shout and we'll happy to help you.
+
+## Finished Solution
+
+If you'd like to see what the finished webpage code might look like, check out the [Finished Webpage Solution here](https://github.com/codelikeagirlau/intro-to-html-css/blob/master/finished-solution)
+
+
+If you run into any problems, just give our assistants a shout and we'll be happy to help you.
 
 Good luck!

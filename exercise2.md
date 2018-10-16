@@ -22,7 +22,7 @@ In this practical exercise, we will do the following:
 2.  Wrap our content
 
     * Let's add a `<main>` tag around _all the elements_ we've already added inside our document `<body>`.
-    * This makes it easier for us to layout our elements
+    * This makes it easier for us to layout our elements. Example here:
       https://www.w3schools.com/tags/tag_main.asp
 
 3.  Let's center our page with CSS
@@ -35,14 +35,14 @@ In this practical exercise, we will do the following:
     * For CSS properties that apply to the same selector, you include them all in the same {} curly brackets. So with our example above, the finished CSS looks like this:
       `main { max-width: 600px; margin: auto; }`
     * _Note that it's fine to have CSS in one line for a small amount, but for 3 or more properties it's common to add a new line for each property to make it easier to read. Some people prefer to add a new line regardless to keep your CSS consistent._
-    * Try different maximum widths (say 1200px, 500px, 100px), to see what happens to the layout.
+    * Try different maximum widths (say 1200px, 500px, 100px), to see what happens to the layout. Example here: 
       https://www.w3schools.com/css/css_max-width.asp
 
 4.  Try some more CSS
 
     * We'll change the color of our `<h1>` tag.
     * Pick a color from https://htmlcolorcodes.com/color-picker/ or https://www.w3schools.com/cssref/css_colors.asp
-    * Apply that color using the `color` property https://www.w3schools.com/cssref/pr_text_color.asp
+    * Apply that color using the `color` property. Example here:  https://www.w3schools.com/cssref/pr_text_color.asp
     * Try changing the background color of the `<body>` to see what happens!
     * If you make it dark, you'll also want to change the text to be light so it shows up.
 
@@ -78,4 +78,40 @@ https://www.cssfontstack.com/
 ## Code reference
 
 Here's an example of what your CSS code could look like when you've completed the steps above:
-https://gist.github.com/natasjja/cbcdaf39af68f9ac660ce2ac45b0fda5
+
+```css
+body {
+    background-image: url(https://st2.depositphotos.com/4521519/10279/v/950/depositphotos_102798858-stock-illustration-seamless-pattern-with-cherry-tree.jpg);
+    background-size: cover;
+}
+
+main {
+    margin: 50px auto;
+    text-align: center;
+    border: 3px solid rgb(242, 122, 150);
+    background-color: white;
+    max-width: 40%;
+    padding: 40px;
+    font-family: 'Roboto';
+}
+
+h1 {
+    font-family: 'Pacifico';
+    font-size: 50px;
+    color: rgb(242, 122, 150);
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+p {
+    padding: 20px;
+}
+
+a {
+    padding-right: 5px;
+    color: rgb(242, 122, 150);
+}
+```

@@ -30,13 +30,13 @@ In this practical exercise, we will do the following:
 3.  Add new tags to the page
 
     * Pop these anywhere inside the `<body>` tag. *Note that all the website tags need to go inside the `<body>` tag.*
-    * Enter a big heading on the page using the `<h1>` tag
+    * Enter a big heading on the page using the `<h1>` tag. Example here:
       https://www.w3schools.com/tags/tag_hn.asp
-    * Add an unordered list using the `<ul>` tag.
+    * Add an unordered list using the `<ul>` tag. Example here: 
       https://www.w3schools.com/tags/tag_ul.asp
-    * Add some text into a `<p>` tag.
+    * Add some text into a `<p>` tag. Example here: 
       https://www.w3schools.com/tags/tag_p.asp
-    * Try a link to somewhere cool using the `<a>` tag
+    * Try a link to somewhere cool using the `<a>` tag. Example here: 
       https://www.w3schools.com/tags/tag_a.asp
 
 4.  Add an image to the page
@@ -46,9 +46,9 @@ In this practical exercise, we will do the following:
       e.g. `My Cool Image.jpg` -> `My-Cool-Image.jpg`
     * Make a folder called `images` by right clicking in your root folder and selecting `New Folder`
     * Now we want to drop our image into the folder called `/images`
-    * Now we can embed the image in the page using the `<img>` tag
+    * Now we can embed the image in the page using the `<img>` tag. Example here:
       https://www.w3schools.com/tags/tag_img.asp
-    * Note that we need to use a relative path to the image because these files aren't hosted online anywhere yet
+    * Note that we need to use a relative path to the image because these files aren't hosted online anywhere yet. Example here:
       https://www.w3schools.com/html/html_filepaths.asp
 
 5. An extra to try
@@ -62,4 +62,24 @@ In this practical exercise, we will do the following:
 ## Code reference
 
 Here's an example of what your HTML code could look like when you've completed the steps above:
-https://gist.github.com/natasjja/3eb858ac8a86fc2bcdf31253faca1280
+
+```html
+<body>
+    <main>
+        <h1>Natasja Laurie</h1>
+        <img src="img/me.jpg">
+        <p>My name's Natasja and I'm an associate software engineer, music and food lover.</p>
+        <p>My favorite things are:</p>
+        <ul>
+          <li>Coding</li>
+          <li>Music</li>
+          <li>Good food</li>
+        </ul>
+        <nav>
+          <a href="http://www.linkedin.com">LinkedIn</a>|
+          <a href="http://www.instagram.com">Instagram</a>|
+          <a href="http://www.facebook.com">Facebook</a>
+        </nav>
+    </main>
+</body>
+```

@@ -1,6 +1,6 @@
 # Exercise 3: Deploy your Webpage
 
-This is a bonus exercise for if you manage to finish your webpage or to try at home by yourself!
+It's great that we've built our webpage with HTML and CSS files, but now we want to make them available on the web so we can show our friends and family our webpage!
 
 ## Key Concepts
 
@@ -43,4 +43,5 @@ In this practical exercise, we will do the following:
 ## Reference
 
 Here's an example of what your netlify web link could look like when you've completed the steps above:
+
 https://youthful-ardinghelli-fe460d.netlify.com
