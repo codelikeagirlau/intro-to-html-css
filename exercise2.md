@@ -77,41 +77,4 @@ https://www.cssfontstack.com/
 
 ## Code reference
 
-Here's an example of what your CSS code could look like when you've completed the steps above:
-
-```css
-body {
-    background-image: url(https://st2.depositphotos.com/4521519/10279/v/950/depositphotos_102798858-stock-illustration-seamless-pattern-with-cherry-tree.jpg);
-    background-size: cover;
-}
-
-main {
-    margin: 50px auto;
-    text-align: center;
-    border: 3px solid rgb(242, 122, 150);
-    background-color: white;
-    max-width: 40%;
-    padding: 40px;
-    font-family: 'Roboto';
-}
-
-h1 {
-    font-family: 'Pacifico';
-    font-size: 50px;
-    color: rgb(242, 122, 150);
-}
-
-img {
-    width: 200px;
-    border-radius: 50%;
-}
-
-p {
-    padding: 20px;
-}
-
-a {
-    padding-right: 5px;
-    color: rgb(242, 122, 150);
-}
-```
+Here's an example of what your CSS code could look like when you've completed the steps above:  [styles.css](https://github.com/codelikeagirlau/intro-to-html-css/blob/master/finished-solution/css/styles.css)
